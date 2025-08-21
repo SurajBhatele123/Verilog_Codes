@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu Apr  3 10:53:50 2025
+# Process ID: 50920
+# Current directory: C:/Users/Suraj/image/image.runs/synth_1
+# Command line: vivado.exe -log vga_syncIndex.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source vga_syncIndex.tcl
+# Log file: C:/Users/Suraj/image/image.runs/synth_1/vga_syncIndex.vds
+# Journal file: C:/Users/Suraj/image/image.runs/synth_1\vivado.jou
+# Running On: DESKTOP-DHVA0N2, OS: Windows, CPU Frequency: 2995 MHz, CPU Physical cores: 16, Host memory: 16597 MB
+#-----------------------------------------------------------
+source vga_syncIndex.tcl -notrace
