@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+A = 0001: B = 0000 --> P = 00000000, P(dec) = 0
+A = 0111: B = 0101 --> P = 00100011, P(dec) = 35
+A = 1111: B = 1111 --> P = 11100001, P(dec) = 225
+$finish called at time : 9 ns : File "C:/Users/VLSI_22/Desktop/242221029/array_multiplier/array_multiplier.srcs/sim_1/new/array_multiplier_tb.v" Line 41
