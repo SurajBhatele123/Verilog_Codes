@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/Suraj/16_bit_multpier/16_bit_multpier.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/Suraj/16_bit_multpier/16_bit_multpier.srcs/sim_1/new/multipler_16bit_tb.v,1737701610,verilog,,,,karatsuba_mul_16bit_tb,,,,,,,,
+C:/Users/Suraj/16_bit_multpier/16_bit_multpier.srcs/sources_1/new/mulipler_16_bit.v,1737701471,verilog,,C:/Users/Suraj/16_bit_multpier/16_bit_multpier.srcs/sim_1/new/multipler_16bit_tb.v,,karatsuba_mul_16bit;karatsuba_mul_2bit;karatsuba_mul_4bit;karatsuba_mul_8bit,,,,,,,,

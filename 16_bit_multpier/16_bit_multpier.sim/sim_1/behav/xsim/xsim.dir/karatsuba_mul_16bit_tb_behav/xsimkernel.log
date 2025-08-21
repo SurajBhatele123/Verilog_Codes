@@ -1,0 +1,4 @@
+Running: xsim.dir/karatsuba_mul_16bit_tb_behav/xsimk.exe -simmode gui -wdb karatsuba_mul_16bit_tb_behav.wdb -simrunnum 0 -socket 49285
+Design successfully loaded
+Design Loading Memory Usage: 10048 KB (Peak: 10048 KB)
+Design Loading CPU Usage: 61 ms

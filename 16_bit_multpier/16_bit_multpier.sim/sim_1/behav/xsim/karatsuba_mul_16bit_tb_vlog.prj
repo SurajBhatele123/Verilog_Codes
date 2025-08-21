@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../16_bit_multpier.srcs/sources_1/new/mulipler_16_bit.v" \
+"../../../../16_bit_multpier.srcs/sim_1/new/multipler_16bit_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
